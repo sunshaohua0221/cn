@@ -1,6 +1,6 @@
 **主播服务开通流程**  
 
-![](https://github.com/jdcloudcom/cn/blob/elive/image/elive/%E4%B8%BB%E6%92%AD%E6%9C%8D%E5%8A%A1%E5%BC%80%E9%80%9A%E6%B5%81%E7%A8%8B.png)
+![](https://github.com/jdcloudcom/cn/blob/elive/image/elive/%E4%B8%BB%E6%92%AD%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B.png)
 
 **主播业务流程**  
 
